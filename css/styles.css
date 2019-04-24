@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+
+}
+h1{
+  font-size: 4rem;
+}
+p{
+  font-size: 2rem;
+}
+.weather{
+  margin-top: 100px;
+}
+.btn{
+  padding: 1px 2rem;
+  color: white;
+  margin: 2rem;
+}
