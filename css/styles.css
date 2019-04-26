@@ -18,3 +18,13 @@ p{
   color: white;
   margin: 2rem;
 }
+.celcius{
+  color: #5ca0d3;
+}
+.celcius:hover{
+  color:#51eaea;
+}
+.icon{
+  color: white;
+  font-size: 4rem;
+}
