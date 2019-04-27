@@ -13,16 +13,14 @@ p{
 .weather{
   margin-top: 100px;
 }
-.btn{
-  padding: 1px 2rem;
-  color: white;
-  margin: 2rem;
-}
-.celcius{
+.temp-value{
   color: #5ca0d3;
 }
-.celcius:hover{
+.temp-value:hover{
   color:#51eaea;
+}
+.temperature:hover{
+  cursor: pointer;
 }
 .icon{
   color: white;
